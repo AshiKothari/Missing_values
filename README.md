@@ -1,2 +1,1 @@
-# Missing_values
-Handles missing values in a dataset
+This python package is created to remove the missing values in the dataset.
